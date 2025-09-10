@@ -1,0 +1,4 @@
+GitHub is a web-based platform used for version control, 
+collaboration, and code management.
+ It’s built on top of Git, which is a version control system 
+ created by Linus Torvalds (the creator of Linux).
